@@ -9,11 +9,11 @@
  ![bg_1.png](./image/bg_1.png) 
  ![bg_1.png](./mark_img/table_bg_1.png) 
  ![bg_1.png](./mark_img/box_bg_1.png)   
-  图像名:bg_2.png  
- ![bg_2.png](./image/bg_2.png) 
- ![bg_2.png](./mark_img/table_bg_2.png) 
- ![bg_2.png](./mark_img/box_bg_2.png)   
+  图像名:bg_2.jpg  
+ ![bg_2.png](./image/bg_2.jpg) 
+ ![bg_2.png](./mark_img/table_bg_2.jpg) 
+ ![bg_2.png](./mark_img/box_bg_2.jpg)   
    图像名:bg_4.png  
- ![bg_4.png](./image/bg_4.png) 
- ![bg_4.png](./mark_img/table_bg_4.png) 
- ![bg_4.png](./mark_img/box_bg_4.png) 
+ ![bg_4.png](./image/bg_4.jpg) 
+ ![bg_4.png](./mark_img/table_bg_4.jpg) 
+ ![bg_4.png](./mark_img/box_bg_4.jpg) 
