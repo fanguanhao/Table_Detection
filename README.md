@@ -14,17 +14,3 @@
  原图像地址:image/bg_4.jpg  
  ![bg_4.png](./mark_img/table_bg_4.jpg) 
  ![bg_4.png](./mark_img/box_bg_4.jpg)  
-
-## 发票检测:  
-	发票也属于是表格检测中的一种，但是相对有上边的那些单元格发票的单元格样式更为统一且单元格较大利于检测，  
-	有时候一张图像上会出现多张发票，本文函数也进行了相应的处理。以下是效果图.  
- 
- 原图像地址:image/fp_1.jpg 
- ![fp_1.jpg](./mark_img/table_fp_1.jpg) 
- ![fp_1.jpg](./mark_img/box_fp_1.jpg)   
- 原图像地址:image/bg_2.jpg  
- ![fp_3.jpg](./mark_img/table_fp_3.jpg) 
- ![fp_3.jpg](./mark_img/box_fp_3.jpg)   
- 原图像地址:image/fp_4.jpg 
- ![fp_4.jpg](./mark_img/table_fp_4.jpg) 
- ![fp_4.jpg](./mark_img/box_fp_4.jpg)  
