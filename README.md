@@ -6,4 +6,4 @@
 	现有的应用场景的图像表格会出现一些干扰情况，如：点线、断线、盖章干扰等，此函数做了一些线段的校正如线段修复，单元格重构等。  
 	函数大致做了一下线段的链接及筛选工作，具体就不详细解释了，下边来看一下效果图。本次测试数据没有微调参数，本函数参数微调更适应发票数据。    
  图像名:bg_1.png  
-  <img src="https://github.com/Niuniuis/Table_Detection/tree/master/image",width="500",hidth="700">
+ <img src="https://github.com/Niuniuis/Table_Detection/tree/master/image",width="500",hidth="700">
