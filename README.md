@@ -7,4 +7,5 @@
 	函数大致做了一下线段的链接及筛选工作，具体就不详细解释了，下边来看一下效果图。  
 	
  ![bg_1.png](./image/bg_1.png) 
-   
+ ![bg_1.png](./mark_img/table_bg_1.png) 
+ ![bg_1.png](./mark_img/box_bg_1.png) 
